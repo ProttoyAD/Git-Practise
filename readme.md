@@ -82,4 +82,4 @@ ___
 \* Not italic \*
 
 <!-- To highlight -->
-using 'for' loop
+using `for` loop
