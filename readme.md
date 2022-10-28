@@ -80,3 +80,6 @@ ___
 
 <!-- To ignore a special character -->
 \* Not italic \*
+
+<!-- To highlight -->
+using 'for' loop
