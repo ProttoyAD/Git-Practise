@@ -77,3 +77,6 @@ ___
 | Jane Doe | jane@gmail.com |
 
 <!-- Task List -->
+
+<!-- To ignore a special character -->
+\* Not italic \*
